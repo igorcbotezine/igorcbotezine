@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/igorbotezine" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  <div class="stats" >
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=igorcbotezine&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcbotezine&layout=compact&langs_count=7&theme=dark"/>
+  <div class="stats" align='center' >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorcbotezine&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcbotezine&layout=compact&langs_count=7&theme=dark"/>
 </div>
